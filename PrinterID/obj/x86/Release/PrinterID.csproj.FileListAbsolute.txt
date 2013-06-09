@@ -1,0 +1,11 @@
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\bin\Release\PrinterID.exe.config
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\bin\Release\PrinterID.exe
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\bin\Release\PrinterID.pdb
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\PrinterID.Form1.resources
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\PrinterID.PrintSettings.resources
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\PrinterID.Properties.Resources.resources
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\PrinterID.exe
+C:\Documents and Settings\TJ\My Documents\Visual Studio 2010\Projects\PrinterID\PrinterID\obj\x86\Release\PrinterID.pdb
